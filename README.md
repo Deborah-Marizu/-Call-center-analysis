@@ -90,6 +90,9 @@ To summarize the average call minutes and the total calls received by each of th
 ![image](https://github.com/Deborah-Marizu/-Call-center-analysis/assets/147628427/81e4e4bf-3bf5-4fe9-8a82-437eaf0b2341)
 
  
+# VISUALIZATION
+
+![CALL CENTRE DASHBOARD](https://github.com/Deborah-Marizu/-Call-center-analysis/assets/147628427/371305fe-3322-4b3b-a926-e49226c334e1)
 
 # RECOMMENDATION
 
