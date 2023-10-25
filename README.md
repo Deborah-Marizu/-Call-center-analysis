@@ -46,21 +46,24 @@ For the analysis to be understood and the questions to be answered pivot tables 
 
 Average talk minutes for YES (11841) was higher than NO (1315), In other words, the percentage of the Resolved complaint was higher than the unresolved complaint with 90% and 10% respectively.
 
-                       
+  ![image](https://github.com/Deborah-Marizu/-Call-center-analysis/assets/147628427/58741635-51d3-4690-a55f-6b1c37f42a0e)
+
 A Donut chart was used to show the difference as a visualization
 
 2.	What is the total speed of answer in seconds by each of the agents?
 
 At 35717, Martha had the highest Speed of answer in seconds and was 13.14% higher than Stewart, which had the lowest Speed of answer in seconds at 31570. Across all 8 Agent, Speed of answer in seconds ranged from 31570 to 35717.
 
- 
+ ![image](https://github.com/Deborah-Marizu/-Call-center-analysis/assets/147628427/8a424213-b03b-47b1-9ae3-18d81f102286)
+
 A stacked bar chart was created to show the Speed of answer in seconds by each of the agent from the highest six to the lowest six.
 
 
 3.	What is the total satisfaction rating per calls?
 The total satisfaction rating ranges from highest with value 1218 to the lowest with value 396. The satisfaction rating ranges from 1 to 5 as the X- axis and the count of call id. The lowest satisfaction rate was 1 and 2 with value 417 and 396 respectively in other words the customer was satisfied above average.
 
-                   
+   ![image](https://github.com/Deborah-Marizu/-Call-center-analysis/assets/147628427/a23bf6cb-3fe1-4d8a-b9df-825707ce54fb)
+     
 
 A stacked column chart was created to show to show the relationship of the total satisfaction per calls.
 
@@ -68,18 +71,23 @@ A stacked column chart was created to show to show the relationship of the total
 
 In terms of topic the average talk minutes it shows that the average talk minutes are relatively close amongst the topic. These topics includes; streaming, admin support, technical support, contract related and payment related with 21%, 19.9%,19.86%,19.7% and 19.22% respectively can be seen are closely related in percentage with payment related issue being the highest with 21%.
 
- 
-         A Donut chart was used to show the difference as a visualization
+ ![image](https://github.com/Deborah-Marizu/-Call-center-analysis/assets/147628427/78ac8f4b-169a-4422-8e00-549c62b79605)
+
+ A Donut chart was used to show the difference as a visualization
 
 
 5.	What are the total calls made from January to March?
 The total calls for January was 1772, February was 1616 and for March was 161. There was drop in calls from January to February but a bit of stagnant amount of calls in from the month February to March.
+
+![image](https://github.com/Deborah-Marizu/-Call-center-analysis/assets/147628427/b10e51a3-cbda-4a48-88f9-7ecabf10ab09)
+
                                      
 The Line chart was created to show the trend in the number of calls from January to March.
 
 6.	What is the total call made and the average talk minutes by agents?
-
 To summarize the average call minutes and the total calls received by each of the agents, a table was created as a visualization tool.
+
+![image](https://github.com/Deborah-Marizu/-Call-center-analysis/assets/147628427/81e4e4bf-3bf5-4fe9-8a82-437eaf0b2341)
 
  
 
